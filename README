@@ -1,1 +1,7 @@
 A Ruby client for restful interaction with Tumblr
+
+This isn't ready for primetime but if you'd like to contribute send me a pull.
+
+Design of the gem is borrowed heavily from: https://github.com/moomerman/twitter_oauth
+
+He's awesome.
