@@ -1,7 +1,7 @@
 module TumblrOAuth
     class Client
         
-        def initalize(options={})
+        def initialize(options={})
             @consumer_key = options[:consumer_key]
             @consumer_secret = options[:consumer_secret]
             @token = options[:token]
